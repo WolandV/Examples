@@ -1,0 +1,7 @@
+CREATE TABLE b_iclient
+(
+	ID INT(11) NOT NULL auto_increment,
+	PARAM_NAME VARCHAR(50),
+	PARAM_VALUE VARCHAR(50),
+	PRIMARY KEY pk_b_iclient(ID)
+);

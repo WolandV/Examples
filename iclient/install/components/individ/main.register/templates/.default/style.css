@@ -1,0 +1,144 @@
+.top_margin {margin-top: 20px;}
+
+
+.w100 .inputtext,
+.w100 .select {width:100%; padding:0; height:21px}
+
+
+
+.w100 .fname{ margin-left:3px}
+
+.w100 .f_req2 .inputtext,
+.w100 .f_req2 .select{
+    /*border: 3px solid #dcf0bc;*/
+    padding:0;
+    height:21px;
+    margin:0px;
+    border:0;
+}
+.w100 .f_req2,
+.w100 .f_lite {padding:3px}
+
+.w100 .f_req2 {background: #DCF0BC;}
+
+#ajax_listOfOptions_help{
+  position:absolute;
+  overflow:auto;
+  border:1px solid #000000;
+  background-color:#FFF;
+  text-align:left;
+  z-index:100;
+  overflow:hidden;
+  width: 398px;
+  display:none;
+  left: 0px;
+  top: 22px;
+  
+}
+#ajax_listOfOptions_help div{  /* General rule for both .optionDiv and .optionDivSelected */
+  margin:1px;    
+  padding:1px;
+  cursor:pointer;
+}
+#ajax_listOfOptions_help .optionDiv_help{  /* Div for each item in list */
+  
+}
+#ajax_listOfOptions_help .optionDivSelected_help{ /* Selected item in the list */
+  background-color:#F27000;
+  color:#FFF;
+}
+div.sr_ie_select_fix_help iframe {
+	position: absolute;
+	margin: -1px 0px 0px -1px;
+	height: 50px;
+	width: 300px;
+	z-index: 50;
+	filter:mask();
+	border: none;
+}
+
+
+
+#ajax_listOfOptions_work_position{
+  position:absolute;
+  overflow:auto;
+  border:1px solid #000000;
+  background-color:#FFF;
+  text-align:left;
+  z-index:100;
+  overflow:hidden;
+  width: 398px;
+  display:none;
+  left: 0px;
+  top: 22px;
+  
+}
+#ajax_listOfOptions_work_position div{  /* General rule for both .optionDiv and .optionDivSelected */
+  margin:1px;    
+  padding:1px;
+  cursor:pointer;
+}
+#ajax_listOfOptions_work_position .optionDiv_work_position{  /* Div for each item in list */
+  
+}
+#ajax_listOfOptions_work_position .optionDivSelected_work_position{ /* Selected item in the list */
+  background-color:#F27000;
+  color:#FFF;
+}
+div.sr_ie_select_fix_work_position iframe {
+	position: absolute;
+	margin: -1px 0px 0px -1px;
+	height: 50px;
+	width: 300px;
+	z-index: 50;
+	filter:mask();
+	border: none;
+}
+#ajax_listOfOptions {
+	display: none;
+}
+
+
+
+#ajax_listOfOptions_work_profile{
+  position:absolute;
+  overflow:auto;
+  border:1px solid #000000;
+  background-color:#FFF;
+  text-align:left;
+  z-index:100;
+  overflow:hidden;
+  width: 398px;
+  display:none;
+  left: 0px;
+  top: 22px;
+  
+}
+#ajax_listOfOptions_work_profile div{  /* General rule for both .optionDiv and .optionDivSelected */
+  margin:1px;    
+  padding:1px;
+  cursor:pointer;
+}
+#ajax_listOfOptions_work_profile .optionDiv_work_profile{  /* Div for each item in list */
+  
+}
+#ajax_listOfOptions_work_profile .optionDivSelected_work_profile{ /* Selected item in the list */
+  background-color:#F27000;
+  color:#FFF;
+}
+div.sr_ie_select_fix_work_profile iframe {
+	position: absolute;
+	margin: -1px 0px 0px -1px;
+	height: 50px;
+	width: 300px;
+	z-index: 50;
+	filter:mask();
+	border: none;
+}
+#ajax_listOfOptions {
+	display: none;
+}
+
+.input-height-100 {	
+	height: auto !important; 
+}

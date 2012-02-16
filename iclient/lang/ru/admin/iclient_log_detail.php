@@ -1,0 +1,15 @@
+<?
+$MESS ['ICLIENT_LOG_DETAIL_TITLE'] = "Просмотр записи журнала";
+$MESS ['ICLIENT_LOG_DETAIL_NOT_FOUND'] = "Указанная запись не найдена.";
+$MESS ['ICLIENT_LOG_DETAIL_ID'] = "ID";
+$MESS ['ICLIENT_LOG_DETAIL_TIMESTAMP_X'] = "Дата добавления";
+$MESS ['ICLIENT_LOG_DETAIL_CONTROLLER_MEMBER'] = "Клиент";
+$MESS ['ICLIENT_LOG_DETAIL_NAME'] = "Название";
+$MESS ['ICLIENT_LOG_DETAIL_DESCRIPTION'] = "Описание";
+$MESS ['ICLIENT_LOG_DETAIL_STATUS'] = "Статус";
+$MESS ['ICLIENT_LOG_DETAIL_STATUS_OK'] = "Успешно";
+$MESS ['ICLIENT_LOG_DETAIL_STATUS_ERR'] = "Ошибка";
+$MESS ['ICLIENT_LOG_DETAIL_TASK'] = "Задача";
+$MESS ['ICLIENT_LOG_DETAIL_USER'] = "Пользователь";
+$MESS ['ICLIENT_LOG_DETAIL_CLOSE'] = "Закрыть";
+?>
